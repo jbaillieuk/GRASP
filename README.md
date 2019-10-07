@@ -1,4 +1,4 @@
-<img src="/GRASP_logo.svg" alt="Project GRASP logo: a hand grasping a platonic solid" width="500px" height="500px">
+<img src="https://github.com/picrin/project_grasp/blob/master/GRASP_logo.svg" alt="Project GRASP logo: a hand grasping a platonic solid" width="500px" height="500px">
 
 # Project Outline
 
